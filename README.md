@@ -32,6 +32,8 @@ Test deployment information
 
 //////////////////////////////////////////
 
+##########REQUIRES METAMASK!!!!!!!!!##########################
+
 Clone this repo
 
 ```
