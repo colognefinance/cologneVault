@@ -32,11 +32,24 @@ Test deployment information
 
 //////////////////////////////////////////
 
+##########REQUIRES METAMASK!!!!!!!!!##########################
+
 Clone this repo
+
+```
+git checkout -b develop
+```
  
 ```
 cd web && npm i
 ```
+
+if you can not see the web folder, you may need to allow unrelated histories and pull the develop branch again, and retry
+
+```
+git pull --allow-unrelated-histories origin develop  
+```
+
 
 and then 
 
