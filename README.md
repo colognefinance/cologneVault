@@ -60,7 +60,7 @@ Can be bought at Uniswap.
 
 User Token
 Contract address: 0x28c3afa4430aed6612083ac28658543dc48bb984
-Owner (can mint): 0xb4Ba43ad023AB2B494070BbFf2fF7fC6D97D284b (Alexey Chernyshov)
+Owner (can mint): 0xb4Ba43ad023AB2B494070BbFf2fF7fC6D97D284b
 
 Can be bought at Uniswap.
 Market Adaptor
