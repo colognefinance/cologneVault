@@ -37,7 +37,13 @@ Test deployment information
 Clone this repo
 
 ```
-git checkout -b develop
+git clone https://github.com/colognefinance/cologneVault
+```
+
+Switch to the develop branch
+
+```
+git checkout develop
 ```
  
 ```
